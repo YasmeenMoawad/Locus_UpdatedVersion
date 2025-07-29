@@ -21,6 +21,14 @@ New demo (A screenshots shows only updated sections, you can run the code for fu
 <h3>📱 App Screenshots</h3>
 
 <p align="center">
+  <img src="screenshots/sc11.png" width="150"/>
+  <img src="screenshots/sc12.png" width="150"/>
+  <img src="screenshots/sc13.png" width="150"/>
+  <img src="screenshots/sc14.png" width="150"/>
+  <img src="screenshots/sc15.png" width="150"/>
+</p>
+
+<p align="center">
   <img src="screenshots/sc1.png" width="150"/>
   <img src="screenshots/sc2.png" width="150"/>
   <img src="screenshots/sc3.png" width="150"/>
