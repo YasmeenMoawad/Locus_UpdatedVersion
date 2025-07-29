@@ -11,6 +11,8 @@ The application targets two user groups:
 
 This app has 5 main features including the possibility to link VR simulation ingine section for educational Satellites control and space navigation. 
 The app has an old version with some defacts but this repository is the updated one.
+</p>
+You can find the old version at: https://github.com/YasmeenMoawad/Locus/tree/main
 
 
 ## Demo
