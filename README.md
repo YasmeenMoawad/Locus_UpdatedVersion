@@ -15,20 +15,29 @@ The app has an old version with some defacts but this repository is the updated 
 
 ## Demo
 
-old demo (A video shows functionality in details): https://drive.google.com/drive/folders/1M3NVlJaUedriFVrMUVhgOyWwoUKSfs9p?usp=sharing
+Old demo (A video shows functionality in details): https://drive.google.com/drive/folders/1M3NVlJaUedriFVrMUVhgOyWwoUKSfs9p?usp=sharing
+</p>
 New demo (A screenshots shows only updated sections, you can run the code for full vision):
-### 📱 App Screenshots
+<h3>📱 App Screenshots</h3>
 
-![Screen1](screenshots/sc1.png)
-![Screen2](screenshots/sc2.png)
-![Screen3](screenshots/sc3.png)
-![Screen4](screenshots/sc4.png)
-![Screen5](screenshots/sc5.png)
-![Screen6](screenshots/sc6.png)
-![Screen7](screenshots/sc7.png)
-![Screen8](screenshots/sc8.png)
-![Screen9](screenshots/sc9.png)
-![Screen10](screenshots/sc10.png)
+<p align="center">
+  <img src="screenshots/sc1.png" width="200"/>
+  <img src="screenshots/sc2.png" width="200"/>
+  <img src="screenshots/sc3.png" width="200"/>
+  <img src="screenshots/sc4.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/sc5.png" width="200"/>
+  <img src="screenshots/sc6.png" width="200"/>
+  <img src="screenshots/sc7.png" width="200"/>
+  <img src="screenshots/sc8.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/sc9.png" width="200"/>
+  <img src="screenshots/sc10.png" width="200"/>
+</p>
 
 
 ## Features
